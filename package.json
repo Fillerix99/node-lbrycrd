@@ -1,0 +1,26 @@
+{
+  "name": "node-lbrycrd",
+  "version": "1.0.0",
+  "description": "A rpc module for LBRYCRDD which also gets explorer data in a simple way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fillerix99/node-lbrycrd.git"
+  },
+  "keywords": [
+    "node-lbrycrd",
+    "lbrycrd"
+  ],
+  "author": "Filip Nyquist <fillerix@fillerix.se> (http://lbry.slack.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fillerix99/node-lbrycrd/issues"
+  },
+  "homepage": "https://github.com/Fillerix99/node-lbrycrd#readme",
+  "dependencies": {
+    "requests": "^0.1.7"
+  }
+}
